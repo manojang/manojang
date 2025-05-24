@@ -1,8 +1,8 @@
 # Hi there!
-It's my first time using GitHub, so I'm just getting started
+It's my first time using GitHub, so I'm just getting started!
 ## What am I doing now?
-I'm working on program that balances chemical equations
-I'm learning Python right now
+I'm currently working on program that balances chemical equations;
+And I'm learning Python right now.
 <!--
 **manojang/manojang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
