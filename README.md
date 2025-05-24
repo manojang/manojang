@@ -1,6 +1,6 @@
-## Hi there!
+# Hi there!
 It's my first time using GitHub, so I'm just getting started
-# What am I doing now?
+## What am I doing now?
 I'm working on program that balances chemical equations
 I'm learning Python right now
 <!--
